@@ -8,6 +8,6 @@ Instead of the usual couple of establishments on Yandex.There are more than a do
 </p>
 
 <address>
-    <strong>Support:</strong>   <a href="mailto:Support@example.com">23FoodSupport@gmail.com</a><br />
+    <strong>Support:</strong>   <a href="mailto:Support@example.com">23FoodSupport@gmail.com</a><br/>
     <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">23FoodMarketing@gmail.com</a>
 </address>
