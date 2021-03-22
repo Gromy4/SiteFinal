@@ -7,7 +7,6 @@ We will solve the issue with the nutrition of your employees-for productivity, c
 Instead of the usual couple of establishments on Yandex.There are more than a dozen options for food — something for everyone.
 </p>
 
-
 <address>
     <strong>Support:</strong>   <a href="mailto:Support@example.com">23FoodSupport@gmail.com</a><br />
     <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">23FoodMarketing@gmail.com</a>
